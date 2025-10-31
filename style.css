@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: calibri;
+}
+header{
+    background-image: linear-gradient(rgba(24,22,22,.3),rgba(24,22,22,.3)),url("Mountain3.png");
+    height:100vh;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding:16px 80px;
+    background-color: #fbfbfb;
+}
+.navbar h1{
+    font-weight: bolder;
+    font-size: 1.9rem;;
+}
+.navbar ul li{
+    display: inline-block;
+    padding:10px;
+}
+.navbar ul li a{
+    color:rgb(7, 0, 0);
+    text-decoration: none;
+}
+.navbar ul li:hover a{
+    color:#e47f14;
+}
+span{
+    color:#e47f14;
+}
+.hero{
+    position:absolute;
+    top: 40%;
+    left:6%;
+    color:white;
+}
+.hero h1{
+    font-weight: bolder;
+    font-size: 80px;
+    margin-bottom:2.5%;
+}
+.hero p{
+    margin-bottom:3.2%;
+    font-size: 1rem;
+}
+button{
+    border:2px solid #e47f14;
+    background-color: #e47f14;
+    color:white;
+    padding:16px 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition:.5s;
+}
+button:hover{
+    background-color: transparent;
+}
