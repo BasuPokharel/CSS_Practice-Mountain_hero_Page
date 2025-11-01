@@ -4,7 +4,7 @@ A simple HTML & CSS project built to practice front-end design. It is just hero 
 > 🖥 Desktop-only layout (not responsive).
 
 ## 🚀 Live Demo
-🔗 [View on GitHub Pages](https://yourusername.github.io/repo-name/)
+🔗 [View on GitHub Pages](https://basupokharel.github.io/CSS_Practice-Mountain_hero_Page/)
 
 ## 🧰 Built With
 - HTML5  
@@ -19,6 +19,6 @@ A simple HTML & CSS project built to practice front-end design. It is just hero 
 ![Screenshot](preview.png)
 
 ## 🧑‍💻 Author
-**Your Name**  
-[Basu-github](https://github.com/Basudev-Pokharel)
+**Basudev Pokharel**  
+[Basu-github](https://github.com/Basudev-Pokharel)<br>
 [Basu-LinkedIN](https://www.linkedin.com/in/basudev-pokharel/)
