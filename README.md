@@ -1,0 +1,24 @@
+# 🌐 Project Title
+
+A simple HTML & CSS project built to practice front-end design. It is just hero page.  
+> 🖥 Desktop-only layout (not responsive).
+
+## 🚀 Live Demo
+🔗 [View on GitHub Pages](https://yourusername.github.io/repo-name/)
+
+## 🧰 Built With
+- HTML5  
+- CSS3  
+
+## 💡 Features
+- Clean layout  
+- Custom colors and typography  
+- Basic hover effects  
+
+## 📸 Preview
+![Screenshot](preview.png)
+
+## 🧑‍💻 Author
+**Your Name**  
+[Basu-github](https://github.com/Basudev-Pokharel)
+[Basu-LinkedIN](https://www.linkedin.com/in/basudev-pokharel/)
