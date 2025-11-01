@@ -1,4 +1,4 @@
-# 🌐 Project Title
+# 🌐 Simple Banner Page- HTML & CSS only
 
 A simple HTML & CSS project built to practice front-end design. It is just hero page.  
 > 🖥 Desktop-only layout (not responsive).
